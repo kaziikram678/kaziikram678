@@ -21,8 +21,6 @@ I'm [Md Ikram](https://github.com/kaziikram678), a CSE student at IIUC. I am a d
 </tr>
 <tr>
 <td colspan="2" align="center">
-  ### My Streak Stats
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziikram678&theme=radical" alt="Md Ikram's Streak Stats">
 </td>
 </tr>
