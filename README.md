@@ -19,6 +19,11 @@ I'm [Md Ikram](https://github.com/kaziikram678), a CSE student at IIUC. I am a d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziikram678&layout=compact&theme=radical" alt="Md Ikram's Most Used Languages">
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziikram678&theme=radical" alt="Md Ikram's Streak Stats">
+</td>
+</tr>
 </table>
 
 ---
@@ -34,4 +39,3 @@ I'm [Md Ikram](https://github.com/kaziikram678), a CSE student at IIUC. I am a d
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Graphic%20Design-%23E34F26.svg?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Graphic Design">
 </p>
-
